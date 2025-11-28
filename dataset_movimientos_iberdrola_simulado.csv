@@ -1,0 +1,501 @@
+MovimientoID,FechaHora,TipoMovimiento,MontoMXN,Ejecutivo,TerceroInvolucrado,UbicacionOrigen,Canal,RiesgoScore,AlertaCompliance,MotivoAlerta
+IBER-MX-0064,2024-01-03 17:40:50,Egreso: Multa Regulatoria,494277.58,Ana Torres (Finanzas),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,72,False,N/A
+IBER-MX-0466,2024-01-05 18:11:50,Egreso: Pago a Proveedor,14944110.64,Javier Lopez (M&A),CFE México,"Ciudad de México, MX",Wire Transfer SWIFT,13,False,N/A
+IBER-MX-0071,2024-01-05 23:50:11,Acción: Inversión en Redes,43449886.78,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,50,False,N/A
+IBER-MX-0165,2024-01-07 20:00:15,Movimiento: Ajuste Contable,158887.43,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Monterrey, MX",Caja Digital I-Risk,91,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0145,2024-01-09 09:19:46,Ingreso: Venta Energía,21078355.1,Carlos Ruiz (Cumplimiento),CFE México,"Nuevo León, MX",Wire Transfer SWIFT,72,False,N/A
+IBER-MX-0094,2024-01-10 04:34:03,Ingreso: Venta Energía,15519577.17,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Texas, USA",Caja Digital I-Risk,53,False,N/A
+IBER-MX-0217,2024-01-13 08:28:44,Egreso: Pago a Proveedor,838444.67,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Nuevo León, MX",Transferencia SPEI MX,81,False,N/A
+IBER-MX-0007,2024-01-13 19:17:07,Egreso: Pago a Proveedor,2222646.64,Javier Lopez (M&A),SHCP (Regulador),"Veracruz, MX",Transferencia SPEI MX,76,False,N/A
+IBER-MX-0371,2024-01-15 19:41:32,Ingreso: Venta Energía,30947803.24,Javier Lopez (M&A),Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,49,False,N/A
+IBER-MX-0069,2024-01-16 00:38:19,Movimiento: Ajuste Contable,79620.51,Javier Lopez (M&A),SHCP (Regulador),"Ciudad de México, MX",Pago Manual,62,False,N/A
+IBER-MX-0200,2024-01-16 11:37:05,Egreso: Pago a Proveedor,7091673.59,Javier Lopez (M&A),Auditoría Interna,"Ciudad de México, MX",Transferencia SPEI MX,14,False,N/A
+IBER-MX-0334,2024-01-16 18:16:18,Ingreso: Venta Energía,11395328.18,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,13,False,N/A
+IBER-MX-0488,2024-01-18 13:01:35,Ingreso: Venta Energía,32487369.72,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Texas, USA",Caja Digital I-Risk,17,False,N/A
+IBER-MX-0452,2024-01-18 18:35:41,Egreso: Pago a Proveedor,44528579.23,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,27,False,N/A
+IBER-MX-0095,2024-01-18 23:26:23,Ingreso: Venta Energía,42465681.15,Ana Torres (Finanzas),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,38,False,N/A
+IBER-MX-0336,2024-01-20 00:48:10,Egreso: Pago a Proveedor,5251258.12,Ana Torres (Finanzas),GE Energy,"Monterrey, MX",Transferencia SPEI MX,92,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0224,2024-01-20 22:18:56,Movimiento: Ajuste Contable,173271.31,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Madrid, ES",Pago Manual,25,False,N/A
+IBER-MX-0321,2024-01-21 14:05:44,Ingreso: Venta Energía,1930911.52,Sin Asignar,Siemens Turbinas,"Ciudad de México, MX",Pago Manual,10,False,N/A
+IBER-MX-0457,2024-01-21 14:30:22,Ingreso: Venta Energía,11803586.71,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Texas, USA",Caja Digital I-Risk,73,False,N/A
+IBER-MX-0402,2024-01-22 10:11:18,Ingreso: Venta Energía,13445488.27,Carlos Ruiz (Cumplimiento),GE Energy,"Madrid, ES",Pago Manual,64,False,N/A
+IBER-MX-0399,2024-01-23 15:45:10,Movimiento: Ajuste Contable,69935.64,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Texas, USA",Caja Digital I-Risk,63,False,N/A
+IBER-MX-0213,2024-01-26 03:05:04,Egreso: Pago a Proveedor,47336269.91,Javier Lopez (M&A),Bufete Penal SL,"Nuevo León, MX",Caja Digital I-Risk,88,False,N/A
+IBER-MX-0257,2024-01-26 06:19:32,Ingreso: Venta Energía,23014356.32,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,88,False,N/A
+IBER-MX-0491,2024-01-29 09:15:13,Movimiento: Ajuste Contable,455337.89,Carlos Ruiz (Cumplimiento),CFE México,"Nuevo León, MX",Transferencia SPEI MX,50,False,N/A
+IBER-MX-0135,2024-01-30 10:40:24,Ingreso: Venta Energía,49665597.92,Sin Asignar,Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,12,False,N/A
+IBER-MX-0014,2024-01-31 08:16:59,Egreso: Pago a Proveedor,26162595.6,Javier Lopez (M&A),Bufete Penal SL,"Madrid, ES",Transferencia SPEI MX,71,False,N/A
+IBER-MX-0189,2024-01-31 13:06:15,Ingreso: Venta Energía,4706146.01,Javier Lopez (M&A),GE Energy,"Jalisco, MX",Wire Transfer SWIFT,43,False,N/A
+IBER-MX-0469,2024-02-01 11:30:33,Ingreso: Venta Energía,8542379.56,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Veracruz, MX",Caja Digital I-Risk,87,False,N/A
+IBER-MX-0356,2024-02-02 12:44:08,Movimiento: Ajuste Contable,278540.16,Elena Gómez (Operaciones),SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,79,False,N/A
+IBER-MX-0335,2024-02-02 19:41:35,Movimiento: Ajuste Contable,130860.37,Ana Torres (Finanzas),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,11,False,N/A
+IBER-MX-0346,2024-02-04 06:25:08,Egreso: Pago a Proveedor,15663786.14,Javier Lopez (M&A),SHCP (Regulador),"Nuevo León, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0134,2024-02-04 18:09:46,Ingreso: Venta Energía,25391077.64,Javier Lopez (M&A),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,45,False,N/A
+IBER-MX-0392,2024-02-09 11:15:02,Ingreso: Venta Energía,44331677.04,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Nuevo León, MX",Transferencia SPEI MX,57,False,N/A
+IBER-MX-0191,2024-02-11 13:43:09,Ingreso: Venta Energía,28215773.53,Ana Torres (Finanzas),SHCP (Regulador),"Veracruz, MX",Wire Transfer SWIFT,39,False,N/A
+IBER-MX-0281,2024-02-11 14:42:59,Ingreso: Venta Energía,14651248.39,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Caja Digital I-Risk,29,False,N/A
+IBER-MX-0253,2024-02-15 01:58:18,Acción: Inversión en Redes,49826729.75,Javier Lopez (M&A),Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,38,False,N/A
+IBER-MX-0235,2024-02-17 02:13:31,Ingreso: Venta Energía,5276074.02,Javier Lopez (M&A),Siemens Turbinas,"Monterrey, MX",Wire Transfer SWIFT,11,False,N/A
+IBER-MX-0471,2024-02-17 09:12:36,Ingreso: Venta Energía,21919749.27,Javier Lopez (M&A),GE Energy,"Monterrey, MX",Caja Digital I-Risk,30,False,N/A
+IBER-MX-0500,2024-02-19 20:58:44,Egreso: Pago a Proveedor,9433040.26,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Ciudad de México, MX",Wire Transfer SWIFT,75,False,N/A
+IBER-MX-0305,2024-02-23 06:09:02,Movimiento: Ajuste Contable,477664.39,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Wire Transfer SWIFT,10,False,N/A
+IBER-MX-0013,2024-02-23 14:47:27,Ingreso: Venta Energía,16012126.87,Ana Torres (Finanzas),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,89,False,N/A
+IBER-MX-0044,2024-02-26 02:20:51,Acción: Adquisición Minoritaria,4421941.09,Javier Lopez (M&A),GE Energy,"Jalisco, MX",Pago Manual,68,False,N/A
+IBER-MX-0183,2024-02-26 20:57:17,Movimiento: Ajuste Contable,339382.46,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Veracruz, MX",Wire Transfer SWIFT,57,False,N/A
+IBER-MX-0187,2024-02-27 01:29:03,Egreso: Pago a Proveedor,11638468.55,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Monterrey, MX",Wire Transfer SWIFT,39,False,N/A
+IBER-MX-0436,2024-02-28 14:02:43,Ingreso: Venta Energía,22114036.73,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Pago Manual,83,False,N/A
+IBER-MX-0080,2024-02-28 20:24:19,Movimiento: Ajuste Contable,335096.6,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,65,False,N/A
+IBER-MX-0498,2024-02-29 04:44:07,Acción: Inversión en Redes,1335186.08,Elena Gómez (Operaciones),Bufete Penal SL,"Monterrey, MX",Transferencia SPEI MX,69,False,N/A
+IBER-MX-0154,2024-02-29 09:04:16,Ingreso: Venta Energía,2277392.6,Carlos Ruiz (Cumplimiento),CFE México,"Nuevo León, MX",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0144,2024-03-01 16:11:32,Ingreso: Venta Energía,15115122.5,Javier Lopez (M&A),Siemens Turbinas,"Madrid, ES",Pago Manual,26,False,N/A
+IBER-MX-0148,2024-03-02 04:15:46,Movimiento: Ajuste Contable,373023.97,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,87,False,N/A
+IBER-MX-0493,2024-03-04 13:29:22,Ingreso: Venta Energía,27919833.36,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,20,False,N/A
+IBER-MX-0101,2024-03-04 19:23:31,Egreso: Pago a Proveedor,4057808.73,Carlos Ruiz (Cumplimiento),CFE México,"Texas, USA",Wire Transfer SWIFT,56,False,N/A
+IBER-MX-0442,2024-03-07 10:03:20,Egreso: Pago a Proveedor,4969069.36,Ana Torres (Finanzas),Siemens Turbinas,"Texas, USA",Wire Transfer SWIFT,75,False,N/A
+IBER-MX-0081,2024-03-08 05:05:44,Movimiento: Ajuste Contable,215291.16,Elena Gómez (Operaciones),GE Energy,"Ciudad de México, MX",Pago Manual,30,False,N/A
+IBER-MX-0036,2024-03-08 18:16:24,Acción: Inversión en Redes,27077778.26,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Jalisco, MX",Transferencia SPEI MX,17,False,N/A
+IBER-MX-0120,2024-03-10 10:15:50,Movimiento: Ajuste Contable,194368.23,Elena Gómez (Operaciones),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,62,False,N/A
+IBER-MX-0157,2024-03-17 23:41:14,Ingreso: Venta Energía,27845763.85,Ana Torres (Finanzas),CFE México,"Madrid, ES",Wire Transfer SWIFT,24,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0204,2024-03-19 14:27:55,Acción: Inversión en Redes,29269250.84,Ana Torres (Finanzas),Bufete Penal SL,"Veracruz, MX",Wire Transfer SWIFT,61,False,N/A
+IBER-MX-0361,2024-03-19 22:59:22,Ingreso: Venta Energía,11332814.13,Sin Asignar,Bufete Penal SL,"Jalisco, MX",Transferencia SPEI MX,66,False,N/A
+IBER-MX-0092,2024-03-20 01:39:51,Movimiento: Ajuste Contable,31128.74,Sin Asignar,Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,45,False,N/A
+IBER-MX-0021,2024-03-21 08:35:47,Egreso: Pago a Proveedor,40200003.15,Javier Lopez (M&A),GE Energy,"Veracruz, MX",Caja Digital I-Risk,75,False,N/A
+IBER-MX-0045,2024-03-21 09:21:38,Acción: Adquisición Minoritaria,48700927.11,Javier Lopez (M&A),GE Energy,"Monterrey, MX",Transferencia SPEI MX,34,False,N/A
+IBER-MX-0233,2024-03-22 04:39:50,Egreso: Pago a Proveedor,36366955.45,Ana Torres (Finanzas),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,40,False,N/A
+IBER-MX-0291,2024-03-22 13:13:07,Movimiento: Ajuste Contable,77738.1,Javier Lopez (M&A),Bufete Penal SL,"Jalisco, MX",Transferencia SPEI MX,30,False,N/A
+IBER-MX-0434,2024-03-23 09:41:32,Ingreso: Venta Energía,38707395.82,Ana Torres (Finanzas),CFE México,"Monterrey, MX",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0432,2024-03-25 01:45:02,Ingreso: Venta Energía,44602525.37,Javier Lopez (M&A),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,51,False,N/A
+IBER-MX-0338,2024-03-26 06:05:41,Acción: Adquisición Minoritaria,25508989.29,Javier Lopez (M&A),Desarrollos Eólicos MX,"Monterrey, MX",Wire Transfer SWIFT,59,False,N/A
+IBER-MX-0129,2024-03-26 15:55:24,Ingreso: Venta Energía,4941843.96,Sin Asignar,GE Energy,"Monterrey, MX",Transferencia SPEI MX,86,False,N/A
+IBER-MX-0475,2024-03-31 23:36:35,Ingreso: Venta Energía,17090157.24,Sin Asignar,Desarrollos Eólicos MX,"Monterrey, MX",Wire Transfer SWIFT,61,False,N/A
+IBER-MX-0300,2024-04-02 07:32:09,Ingreso: Venta Energía,10051724.9,Carlos Ruiz (Cumplimiento),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,48,False,N/A
+IBER-MX-0119,2024-04-03 14:37:13,Movimiento: Ajuste Contable,404018.99,Ana Torres (Finanzas),Siemens Turbinas,"Texas, USA",Pago Manual,69,False,N/A
+IBER-MX-0149,2024-04-04 13:52:33,Egreso: Pago a Proveedor,20771595.33,Sin Asignar,GE Energy,"Nuevo León, MX",Transferencia SPEI MX,82,False,N/A
+IBER-MX-0412,2024-04-08 02:25:01,Egreso: Pago a Proveedor,20667874.49,Ana Torres (Finanzas),GE Energy,"Veracruz, MX",Caja Digital I-Risk,80,False,N/A
+IBER-MX-0175,2024-04-11 09:26:37,Acción: Adquisición Minoritaria,13303901.88,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Wire Transfer SWIFT,85,False,N/A
+IBER-MX-0264,2024-04-12 07:35:13,Egreso: Pago a Proveedor,48839170.46,Sin Asignar,Auditoría Interna,"Monterrey, MX",Transferencia SPEI MX,87,False,N/A
+IBER-MX-0463,2024-04-18 02:01:32,Egreso: Pago a Proveedor,43902095.86,Ana Torres (Finanzas),Bufete Penal SL,"Madrid, ES",Caja Digital I-Risk,22,False,N/A
+IBER-MX-0260,2024-04-21 07:55:06,Egreso: Pago a Proveedor,16102714.14,Ana Torres (Finanzas),Auditoría Interna,"Madrid, ES",Caja Digital I-Risk,22,False,N/A
+IBER-MX-0304,2024-04-21 09:19:23,Egreso: Pago a Proveedor,9928650.97,Elena Gómez (Operaciones),GE Energy,"Madrid, ES",Wire Transfer SWIFT,48,False,N/A
+IBER-MX-0487,2024-04-21 21:58:03,Egreso: Pago a Proveedor,5762331.17,Ana Torres (Finanzas),Siemens Turbinas,"Madrid, ES",Transferencia SPEI MX,42,False,N/A
+IBER-MX-0024,2024-04-23 06:56:36,Ingreso: Venta Energía,14008750.0,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Veracruz, MX",Transferencia SPEI MX,47,False,N/A
+IBER-MX-0458,2024-04-26 17:39:29,Ingreso: Venta Energía,33764681.65,Elena Gómez (Operaciones),Auditoría Interna,"Jalisco, MX",Pago Manual,15,False,N/A
+IBER-MX-0234,2024-04-26 21:54:27,Ingreso: Venta Energía,38495864.66,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Veracruz, MX",Wire Transfer SWIFT,55,False,N/A
+IBER-MX-0057,2024-04-29 22:31:38,Egreso: Pago a Proveedor,22463529.54,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Monterrey, MX",Caja Digital I-Risk,30,False,N/A
+IBER-MX-0319,2024-05-01 02:50:02,Ingreso: Venta Energía,38955592.71,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,17,False,N/A
+IBER-MX-0384,2024-05-04 22:44:56,Ingreso: Venta Energía,47757693.42,Javier Lopez (M&A),Siemens Turbinas,"Jalisco, MX",Wire Transfer SWIFT,39,False,N/A
+IBER-MX-0241,2024-05-05 19:48:21,Egreso: Pago a Proveedor,2633813.54,Javier Lopez (M&A),Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,67,False,N/A
+IBER-MX-0470,2024-05-06 00:49:29,Movimiento: Ajuste Contable,83886.17,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Caja Digital I-Risk,67,False,N/A
+IBER-MX-0262,2024-05-06 09:37:21,Movimiento: Ajuste Contable,338264.56,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,48,False,N/A
+IBER-MX-0137,2024-05-06 17:55:36,Egreso: Pago a Proveedor,6406349.62,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Caja Digital I-Risk,11,False,N/A
+IBER-MX-0237,2024-05-07 12:06:47,Acción: Adquisición Minoritaria,45266059.6,Elena Gómez (Operaciones),CFE México,"Monterrey, MX",Transferencia SPEI MX,69,False,N/A
+IBER-MX-0236,2024-05-08 02:27:18,Ingreso: Venta Energía,1593283.16,Ana Torres (Finanzas),CFE México,"Madrid, ES",Transferencia SPEI MX,41,False,N/A
+IBER-MX-0332,2024-05-08 12:44:32,Ingreso: Venta Energía,46800258.76,Elena Gómez (Operaciones),Auditoría Interna,"Nuevo León, MX",Caja Digital I-Risk,58,False,N/A
+IBER-MX-0207,2024-05-09 01:55:35,Acción: Inversión en Redes,19056188.3,Ana Torres (Finanzas),Siemens Turbinas,"Texas, USA",Caja Digital I-Risk,50,False,N/A
+IBER-MX-0385,2024-05-09 17:57:54,Movimiento: Ajuste Contable,364857.56,Sin Asignar,Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0414,2024-05-12 22:34:01,Movimiento: Ajuste Contable,6884.9,Javier Lopez (M&A),Siemens Turbinas,"Texas, USA",Caja Digital I-Risk,35,False,N/A
+IBER-MX-0033,2024-05-14 23:13:38,Movimiento: Ajuste Contable,417288.73,Elena Gómez (Operaciones),CFE México,"Texas, USA",Wire Transfer SWIFT,70,False,N/A
+IBER-MX-0089,2024-05-15 11:50:40,Egreso: Pago a Proveedor,31782722.79,Ana Torres (Finanzas),Auditoría Interna,"Texas, USA",Transferencia SPEI MX,76,False,N/A
+IBER-MX-0367,2024-05-15 14:46:30,Acción: Adquisición Minoritaria,6441508.46,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,63,False,N/A
+IBER-MX-0494,2024-05-15 15:31:21,Egreso: Honorarios Legales,3733630.33,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,82,False,N/A
+IBER-MX-0453,2024-05-16 06:34:19,Movimiento: Ajuste Contable,117521.58,Elena Gómez (Operaciones),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,26,False,N/A
+IBER-MX-0104,2024-05-16 07:03:34,Ingreso: Venta Energía,40735419.52,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Veracruz, MX",Transferencia SPEI MX,68,False,N/A
+IBER-MX-0026,2024-05-16 19:32:28,Egreso: Pago a Proveedor,8595136.2,Sin Asignar,SHCP (Regulador),"Texas, USA",Pago Manual,44,False,N/A
+IBER-MX-0011,2024-05-17 01:24:16,Egreso: Pago a Proveedor,44031351.42,Sin Asignar,Siemens Turbinas,"Jalisco, MX",Caja Digital I-Risk,11,False,N/A
+IBER-MX-0473,2024-05-18 00:04:57,Acción: Inversión en Redes,33656742.72,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Nuevo León, MX",Transferencia SPEI MX,61,False,N/A
+IBER-MX-0322,2024-05-21 06:57:56,Egreso: Pago a Proveedor,12805689.73,Ana Torres (Finanzas),Siemens Turbinas,"Monterrey, MX",Caja Digital I-Risk,14,False,N/A
+IBER-MX-0212,2024-05-22 16:58:07,Egreso: Pago a Proveedor,49555450.93,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Veracruz, MX",Pago Manual,12,False,N/A
+IBER-MX-0270,2024-05-23 12:55:17,Ingreso: Venta Energía,47815865.51,Sin Asignar,Siemens Turbinas,"Jalisco, MX",Wire Transfer SWIFT,63,False,N/A
+IBER-MX-0098,2024-05-26 23:39:13,Egreso: Pago a Proveedor,38806369.76,Ana Torres (Finanzas),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,13,False,N/A
+IBER-MX-0280,2024-05-28 00:40:56,Ingreso: Venta Energía,20370270.16,Elena Gómez (Operaciones),SHCP (Regulador),"Jalisco, MX",Caja Digital I-Risk,51,False,N/A
+IBER-MX-0393,2024-05-29 10:33:58,Egreso: Pago a Proveedor,14068310.72,Ana Torres (Finanzas),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,29,False,N/A
+IBER-MX-0410,2024-05-30 08:52:03,Egreso: Pago a Proveedor,47192790.93,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,12,False,N/A
+IBER-MX-0450,2024-06-01 02:21:21,Movimiento: Ajuste Contable,107278.94,Ana Torres (Finanzas),CFE México,"Monterrey, MX",Wire Transfer SWIFT,54,False,N/A
+IBER-MX-0352,2024-06-05 01:55:57,Acción: Inversión en Redes,3310676.91,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Wire Transfer SWIFT,71,False,N/A
+IBER-MX-0308,2024-06-06 12:35:52,Ingreso: Venta Energía,2397822.18,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,80,False,N/A
+IBER-MX-0188,2024-06-07 13:54:38,Acción: Inversión en Redes,26723708.69,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Jalisco, MX",Transferencia SPEI MX,23,False,N/A
+IBER-MX-0426,2024-06-07 18:46:15,Acción: Adquisición Minoritaria,2869485.39,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,51,False,N/A
+IBER-MX-0286,2024-06-10 03:00:29,Acción: Adquisición Minoritaria,9779560.94,Ana Torres (Finanzas),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,36,False,N/A
+IBER-MX-0372,2024-06-10 08:59:50,Movimiento: Ajuste Contable,168720.59,Carlos Ruiz (Cumplimiento),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,14,False,N/A
+IBER-MX-0202,2024-06-11 01:44:31,Ingreso: Venta Energía,12439993.76,Elena Gómez (Operaciones),Bufete Penal SL,"Monterrey, MX",Transferencia SPEI MX,70,False,N/A
+IBER-MX-0128,2024-06-15 00:20:11,Movimiento: Ajuste Contable,178936.71,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Madrid, ES",Wire Transfer SWIFT,81,False,N/A
+IBER-MX-0365,2024-06-21 19:12:13,Egreso: Pago a Proveedor,2510012.84,Elena Gómez (Operaciones),CFE México,"Jalisco, MX",Pago Manual,24,False,N/A
+IBER-MX-0279,2024-06-23 18:54:29,Ingreso: Venta Energía,9832501.05,Elena Gómez (Operaciones),Bufete Penal SL,"Ciudad de México, MX",Caja Digital I-Risk,84,False,N/A
+IBER-MX-0238,2024-06-25 17:41:12,Egreso: Pago a Proveedor,10180035.12,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Ciudad de México, MX",Caja Digital I-Risk,18,False,N/A
+IBER-MX-0193,2024-06-26 14:45:12,Acción: Adquisición Minoritaria,34529944.56,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Ciudad de México, MX",Caja Digital I-Risk,27,False,N/A
+IBER-MX-0325,2024-06-27 07:28:23,Acción: Inversión en Redes,5819047.13,Sin Asignar,GE Energy,"Nuevo León, MX",Transferencia SPEI MX,54,False,N/A
+IBER-MX-0383,2024-06-27 09:35:58,Egreso: Pago a Proveedor,8717922.75,Sin Asignar,Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,84,False,N/A
+IBER-MX-0027,2024-06-27 18:45:44,Movimiento: Ajuste Contable,265949.65,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Texas, USA",Wire Transfer SWIFT,47,False,N/A
+IBER-MX-0476,2024-06-30 11:13:51,Ingreso: Venta Energía,14917725.24,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Texas, USA",Wire Transfer SWIFT,21,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0250,2024-07-04 06:09:58,Ingreso: Venta Energía,44376637.77,Javier Lopez (M&A),Bufete Penal SL,"Nuevo León, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0203,2024-07-05 04:33:23,Egreso: Pago a Proveedor,40871835.2,Sin Asignar,Desarrollos Eólicos MX,"Madrid, ES",Caja Digital I-Risk,32,False,N/A
+IBER-MX-0076,2024-07-06 05:27:00,Movimiento: Ajuste Contable,345156.43,Javier Lopez (M&A),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,76,False,N/A
+IBER-MX-0326,2024-07-07 03:12:42,Egreso: Honorarios Legales,2132631.92,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Jalisco, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0070,2024-07-07 04:37:44,Movimiento: Ajuste Contable,498487.32,Javier Lopez (M&A),Auditoría Interna,"Monterrey, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0091,2024-07-10 03:26:06,Movimiento: Ajuste Contable,300581.73,Sin Asignar,Auditoría Interna,"Veracruz, MX",Caja Digital I-Risk,36,False,N/A
+IBER-MX-0106,2024-07-10 13:15:43,Ingreso: Venta Energía,42802292.75,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Madrid, ES",Wire Transfer SWIFT,15,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0058,2024-07-13 00:32:58,Egreso: Pago a Proveedor,19645409.83,Javier Lopez (M&A),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,39,False,N/A
+IBER-MX-0396,2024-07-15 01:51:26,Ingreso: Venta Energía,36425116.27,Sin Asignar,Siemens Turbinas,"Nuevo León, MX",Wire Transfer SWIFT,36,False,N/A
+IBER-MX-0307,2024-07-16 15:44:17,Ingreso: Venta Energía,23114785.75,Elena Gómez (Operaciones),Bufete Penal SL,"Jalisco, MX",Pago Manual,50,False,N/A
+IBER-MX-0445,2024-07-18 21:57:15,Ingreso: Venta Energía,9032464.73,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Nuevo León, MX",Caja Digital I-Risk,72,False,N/A
+IBER-MX-0178,2024-07-20 12:54:21,Ingreso: Venta Energía,40998000.09,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Nuevo León, MX",Pago Manual,63,False,N/A
+IBER-MX-0492,2024-07-21 13:17:22,Egreso: Pago a Proveedor,39381560.41,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Wire Transfer SWIFT,56,False,N/A
+IBER-MX-0261,2024-07-21 18:09:28,Ingreso: Venta Energía,5377846.26,Sin Asignar,CFE México,"Texas, USA",Wire Transfer SWIFT,80,False,N/A
+IBER-MX-0400,2024-07-22 09:57:16,Ingreso: Venta Energía,47761027.72,Elena Gómez (Operaciones),CFE México,"Monterrey, MX",Wire Transfer SWIFT,32,False,N/A
+IBER-MX-0067,2024-07-27 05:26:42,Movimiento: Ajuste Contable,77827.42,Elena Gómez (Operaciones),CFE México,"Monterrey, MX",Transferencia SPEI MX,10,False,N/A
+IBER-MX-0306,2024-07-27 16:16:09,Ingreso: Venta Energía,16905118.7,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Jalisco, MX",Caja Digital I-Risk,47,False,N/A
+IBER-MX-0047,2024-07-28 00:01:47,Acción: Adquisición Minoritaria,39734535.62,Ana Torres (Finanzas),GE Energy,"Veracruz, MX",Wire Transfer SWIFT,21,False,N/A
+IBER-MX-0496,2024-07-29 09:36:28,Egreso: Honorarios Legales,1825678.79,Javier Lopez (M&A),Bufete Penal SL,"Veracruz, MX",Wire Transfer SWIFT,45,False,N/A
+IBER-MX-0231,2024-07-31 18:31:07,Movimiento: Ajuste Contable,40095.18,Ana Torres (Finanzas),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,18,False,N/A
+IBER-MX-0242,2024-08-01 04:03:13,Egreso: Pago a Proveedor,2154146.38,Javier Lopez (M&A),SHCP (Regulador),"Ciudad de México, MX",Caja Digital I-Risk,75,False,N/A
+IBER-MX-0015,2024-08-02 23:56:59,Movimiento: Ajuste Contable,295583.04,Ana Torres (Finanzas),Auditoría Interna,"Texas, USA",Pago Manual,88,False,N/A
+IBER-MX-0040,2024-08-05 11:38:23,Egreso: Multa Regulatoria,3801813.03,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Madrid, ES",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0267,2024-08-05 16:42:22,Egreso: Pago a Proveedor,42699853.01,Javier Lopez (M&A),Siemens Turbinas,"Monterrey, MX",Caja Digital I-Risk,24,False,N/A
+IBER-MX-0019,2024-08-07 18:36:18,Movimiento: Ajuste Contable,418491.23,Elena Gómez (Operaciones),GE Energy,"Ciudad de México, MX",Wire Transfer SWIFT,29,False,N/A
+IBER-MX-0195,2024-08-08 14:53:53,Egreso: Multa Regulatoria,1836910.98,Sin Asignar,Bufete Penal SL,"Nuevo León, MX",Caja Digital I-Risk,34,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0184,2024-08-09 02:04:40,Egreso: Pago a Proveedor,18442295.72,Sin Asignar,Bufete Penal SL,"Nuevo León, MX",Pago Manual,33,False,N/A
+IBER-MX-0276,2024-08-10 12:08:30,Movimiento: Ajuste Contable,478298.18,Elena Gómez (Operaciones),GE Energy,"Monterrey, MX",Transferencia SPEI MX,60,False,N/A
+IBER-MX-0199,2024-08-13 14:26:49,Egreso: Pago a Proveedor,27246759.3,Sin Asignar,GE Energy,"Jalisco, MX",Pago Manual,29,False,N/A
+IBER-MX-0142,2024-08-15 08:59:08,Egreso: Pago a Proveedor,21046255.24,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,33,False,N/A
+IBER-MX-0329,2024-08-15 12:07:51,Egreso: Pago a Proveedor,10550693.45,Sin Asignar,GE Energy,"Texas, USA",Wire Transfer SWIFT,92,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0489,2024-08-20 14:16:34,Ingreso: Venta Energía,33333024.11,Ana Torres (Finanzas),Auditoría Interna,"Monterrey, MX",Wire Transfer SWIFT,32,False,N/A
+IBER-MX-0295,2024-08-21 02:11:23,Egreso: Honorarios Legales,3401178.87,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Ciudad de México, MX",Caja Digital I-Risk,32,False,N/A
+IBER-MX-0240,2024-08-21 16:25:08,Ingreso: Venta Energía,11662597.04,Javier Lopez (M&A),GE Energy,"Jalisco, MX",Caja Digital I-Risk,56,False,N/A
+IBER-MX-0404,2024-08-22 09:53:45,Acción: Inversión en Redes,20485355.13,Sin Asignar,SHCP (Regulador),"Texas, USA",Wire Transfer SWIFT,81,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0427,2024-08-23 14:57:55,Acción: Inversión en Redes,5647005.62,Javier Lopez (M&A),Desarrollos Eólicos MX,"Ciudad de México, MX",Pago Manual,23,False,N/A
+IBER-MX-0439,2024-08-24 06:23:45,Egreso: Pago a Proveedor,9797522.82,Sin Asignar,Siemens Turbinas,"Monterrey, MX",Wire Transfer SWIFT,71,False,N/A
+IBER-MX-0323,2024-08-30 09:19:36,Egreso: Pago a Proveedor,30795284.26,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Monterrey, MX",Transferencia SPEI MX,67,False,N/A
+IBER-MX-0341,2024-09-01 23:51:37,Egreso: Honorarios Legales,479350.0,Javier Lopez (M&A),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,15,False,N/A
+IBER-MX-0485,2024-09-02 20:15:04,Egreso: Honorarios Legales,3221738.06,Elena Gómez (Operaciones),Auditoría Interna,"Jalisco, MX",Transferencia SPEI MX,71,False,N/A
+IBER-MX-0086,2024-09-05 19:46:57,Acción: Inversión en Redes,41360613.07,Javier Lopez (M&A),Siemens Turbinas,"Monterrey, MX",Pago Manual,40,False,N/A
+IBER-MX-0201,2024-09-06 12:20:22,Movimiento: Ajuste Contable,451505.84,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Wire Transfer SWIFT,31,False,N/A
+IBER-MX-0164,2024-09-07 20:27:03,Acción: Adquisición Minoritaria,45685854.5,Elena Gómez (Operaciones),GE Energy,"Texas, USA",Caja Digital I-Risk,35,False,N/A
+IBER-MX-0357,2024-09-09 08:22:31,Movimiento: Ajuste Contable,336607.97,Ana Torres (Finanzas),Bufete Penal SL,"Nuevo León, MX",Wire Transfer SWIFT,18,False,N/A
+IBER-MX-0147,2024-09-09 16:35:43,Ingreso: Venta Energía,33474275.51,Sin Asignar,Siemens Turbinas,"Veracruz, MX",Transferencia SPEI MX,87,False,N/A
+IBER-MX-0386,2024-09-10 04:04:21,Egreso: Pago a Proveedor,38833468.9,Ana Torres (Finanzas),SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,67,False,N/A
+IBER-MX-0048,2024-09-11 23:47:37,Acción: Inversión en Redes,15769430.47,Carlos Ruiz (Cumplimiento),CFE México,"Texas, USA",Transferencia SPEI MX,61,False,N/A
+IBER-MX-0017,2024-09-14 02:34:41,Ingreso: Venta Energía,28317756.73,Elena Gómez (Operaciones),Auditoría Interna,"Veracruz, MX",Transferencia SPEI MX,58,False,N/A
+IBER-MX-0031,2024-09-14 22:53:36,Egreso: Honorarios Legales,2452405.86,Javier Lopez (M&A),Auditoría Interna,"Nuevo León, MX",Transferencia SPEI MX,14,False,N/A
+IBER-MX-0441,2024-09-16 12:02:59,Movimiento: Ajuste Contable,351220.98,Elena Gómez (Operaciones),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0186,2024-09-16 21:56:22,Acción: Inversión en Redes,45617200.51,Ana Torres (Finanzas),Auditoría Interna,"Nuevo León, MX",Wire Transfer SWIFT,48,False,N/A
+IBER-MX-0316,2024-09-20 09:34:57,Acción: Inversión en Redes,31631967.99,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,13,False,N/A
+IBER-MX-0127,2024-09-20 09:37:13,Movimiento: Ajuste Contable,175617.47,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Jalisco, MX",Wire Transfer SWIFT,92,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0239,2024-09-22 03:05:05,Ingreso: Venta Energía,44017282.41,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Jalisco, MX",Transferencia SPEI MX,25,False,N/A
+IBER-MX-0425,2024-09-24 14:21:28,Acción: Inversión en Redes,37999583.65,Javier Lopez (M&A),GE Energy,"Madrid, ES",Pago Manual,79,False,N/A
+IBER-MX-0185,2024-09-24 21:30:36,Egreso: Honorarios Legales,4048083.11,Elena Gómez (Operaciones),GE Energy,"Madrid, ES",Wire Transfer SWIFT,40,False,N/A
+IBER-MX-0227,2024-09-25 22:41:02,Acción: Adquisición Minoritaria,17585074.09,Javier Lopez (M&A),CFE México,"Ciudad de México, MX",Wire Transfer SWIFT,93,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0407,2024-09-26 23:48:02,Ingreso: Venta Energía,2720484.62,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Nuevo León, MX",Caja Digital I-Risk,22,False,N/A
+IBER-MX-0467,2024-09-29 00:46:46,Ingreso: Venta Energía,2993360.57,Elena Gómez (Operaciones),Bufete Penal SL,"Nuevo León, MX",Wire Transfer SWIFT,64,False,N/A
+IBER-MX-0156,2024-09-29 20:24:52,Egreso: Pago a Proveedor,26046423.45,Elena Gómez (Operaciones),GE Energy,"Ciudad de México, MX",Pago Manual,76,False,N/A
+IBER-MX-0456,2024-10-07 08:13:23,Movimiento: Ajuste Contable,155519.83,Javier Lopez (M&A),SHCP (Regulador),"Veracruz, MX",Transferencia SPEI MX,54,False,N/A
+IBER-MX-0068,2024-10-07 11:18:47,Acción: Inversión en Redes,42250253.12,Javier Lopez (M&A),SHCP (Regulador),"Texas, USA",Wire Transfer SWIFT,36,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0171,2024-10-08 10:03:29,Ingreso: Venta Energía,39136034.3,Elena Gómez (Operaciones),Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,70,False,N/A
+IBER-MX-0358,2024-10-08 18:58:22,Egreso: Pago a Proveedor,2053982.42,Elena Gómez (Operaciones),SHCP (Regulador),"Jalisco, MX",Transferencia SPEI MX,20,False,N/A
+IBER-MX-0001,2024-10-09 07:59:00,Egreso: Pago a Proveedor,42120507.63,Javier Lopez (M&A),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,80,False,N/A
+IBER-MX-0109,2024-10-10 03:52:57,Egreso: Pago a Proveedor,208999.34,Sin Asignar,SHCP (Regulador),"Veracruz, MX",Caja Digital I-Risk,86,False,N/A
+IBER-MX-0066,2024-10-10 11:55:32,Acción: Adquisición Minoritaria,45497208.98,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Monterrey, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0310,2024-10-11 09:42:09,Egreso: Pago a Proveedor,8521746.7,Javier Lopez (M&A),Bufete Penal SL,"Nuevo León, MX",Transferencia SPEI MX,28,False,N/A
+IBER-MX-0172,2024-10-12 01:43:15,Ingreso: Venta Energía,18094784.88,Ana Torres (Finanzas),SHCP (Regulador),"Madrid, ES",Transferencia SPEI MX,76,False,N/A
+IBER-MX-0353,2024-10-13 22:30:42,Ingreso: Venta Energía,12518288.85,Sin Asignar,SHCP (Regulador),"Veracruz, MX",Caja Digital I-Risk,33,False,N/A
+IBER-MX-0340,2024-10-14 09:06:16,Acción: Inversión en Redes,45098766.98,Elena Gómez (Operaciones),CFE México,"Madrid, ES",Transferencia SPEI MX,58,False,N/A
+IBER-MX-0448,2024-10-15 01:34:56,Movimiento: Ajuste Contable,270232.55,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Jalisco, MX",Transferencia SPEI MX,59,False,N/A
+IBER-MX-0292,2024-10-15 02:01:09,Egreso: Pago a Proveedor,14122303.76,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Nuevo León, MX",Caja Digital I-Risk,56,False,N/A
+IBER-MX-0166,2024-10-15 22:48:41,Acción: Adquisición Minoritaria,23488549.47,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Caja Digital I-Risk,77,False,N/A
+IBER-MX-0409,2024-10-18 20:47:15,Ingreso: Venta Energía,25125191.5,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,85,False,N/A
+IBER-MX-0226,2024-10-26 01:10:20,Egreso: Pago a Proveedor,45723295.96,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,62,False,N/A
+IBER-MX-0192,2024-10-28 06:54:18,Acción: Inversión en Redes,28089548.53,Sin Asignar,Desarrollos Eólicos MX,"Nuevo León, MX",Transferencia SPEI MX,82,False,N/A
+IBER-MX-0056,2024-10-28 16:52:56,Movimiento: Ajuste Contable,317347.27,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,68,False,N/A
+IBER-MX-0483,2024-10-29 15:20:43,Ingreso: Venta Energía,14885456.25,Elena Gómez (Operaciones),Bufete Penal SL,"Jalisco, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0074,2024-10-31 08:09:16,Acción: Adquisición Minoritaria,10936836.97,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Nuevo León, MX",Transferencia SPEI MX,38,False,N/A
+IBER-MX-0126,2024-11-01 08:11:52,Movimiento: Ajuste Contable,389755.17,Sin Asignar,Auditoría Interna,"Texas, USA",Wire Transfer SWIFT,72,False,N/A
+IBER-MX-0443,2024-11-03 23:27:25,Egreso: Pago a Proveedor,42528874.68,Elena Gómez (Operaciones),Auditoría Interna,"Nuevo León, MX",Transferencia SPEI MX,85,False,N/A
+IBER-MX-0417,2024-11-03 23:57:45,Ingreso: Venta Energía,112498.37,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Jalisco, MX",Pago Manual,75,False,N/A
+IBER-MX-0138,2024-11-04 21:10:28,Movimiento: Ajuste Contable,127422.49,Sin Asignar,Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,30,False,N/A
+IBER-MX-0006,2024-11-04 22:20:00,Ingreso: Venta Energía,49719872.11,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Pago Manual,69,False,N/A
+IBER-MX-0495,2024-11-08 02:03:45,Ingreso: Venta Energía,7305226.3,Javier Lopez (M&A),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,73,False,N/A
+IBER-MX-0330,2024-11-08 17:16:49,Egreso: Pago a Proveedor,35203085.37,Ana Torres (Finanzas),SHCP (Regulador),"Madrid, ES",Wire Transfer SWIFT,20,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0462,2024-11-11 14:15:51,Egreso: Pago a Proveedor,41232909.95,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,82,False,N/A
+IBER-MX-0211,2024-11-12 08:32:31,Movimiento: Ajuste Contable,414883.35,Javier Lopez (M&A),CFE México,"Monterrey, MX",Caja Digital I-Risk,74,False,N/A
+IBER-MX-0054,2024-11-14 08:39:49,Egreso: Pago a Proveedor,27194783.5,Javier Lopez (M&A),Auditoría Interna,"Madrid, ES",Transferencia SPEI MX,17,False,N/A
+IBER-MX-0042,2024-11-17 19:17:09,Ingreso: Venta Energía,24298896.99,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Jalisco, MX",Transferencia SPEI MX,75,False,N/A
+IBER-MX-0461,2024-11-19 12:24:03,Egreso: Pago a Proveedor,12188688.32,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Texas, USA",Transferencia SPEI MX,79,False,N/A
+IBER-MX-0190,2024-11-20 21:00:40,Acción: Inversión en Redes,46273108.32,Elena Gómez (Operaciones),Siemens Turbinas,"Madrid, ES",Transferencia SPEI MX,38,False,N/A
+IBER-MX-0348,2024-11-21 11:28:07,Movimiento: Ajuste Contable,228531.74,Javier Lopez (M&A),SHCP (Regulador),"Madrid, ES",Transferencia SPEI MX,65,False,N/A
+IBER-MX-0317,2024-11-21 21:35:29,Movimiento: Ajuste Contable,2381.63,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Texas, USA",Pago Manual,60,False,N/A
+IBER-MX-0379,2024-11-26 07:29:41,Ingreso: Venta Energía,9151789.61,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Jalisco, MX",Wire Transfer SWIFT,36,False,N/A
+IBER-MX-0198,2024-11-26 10:20:36,Ingreso: Venta Energía,10278877.54,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0274,2024-11-29 11:03:12,Movimiento: Ajuste Contable,87031.44,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Veracruz, MX",Pago Manual,59,False,N/A
+IBER-MX-0344,2024-11-30 19:59:30,Ingreso: Venta Energía,35418811.11,Sin Asignar,SHCP (Regulador),"Texas, USA",Caja Digital I-Risk,16,False,N/A
+IBER-MX-0016,2024-12-01 04:23:53,Acción: Inversión en Redes,47070258.79,Ana Torres (Finanzas),Auditoría Interna,"Madrid, ES",Caja Digital I-Risk,44,False,N/A
+IBER-MX-0447,2024-12-02 00:18:42,Egreso: Pago a Proveedor,41444688.8,Sin Asignar,Siemens Turbinas,"Jalisco, MX",Wire Transfer SWIFT,39,False,N/A
+IBER-MX-0100,2024-12-03 23:43:04,Movimiento: Ajuste Contable,275670.67,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Caja Digital I-Risk,76,False,N/A
+IBER-MX-0360,2024-12-04 10:18:36,Egreso: Pago a Proveedor,11651756.06,Elena Gómez (Operaciones),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,36,False,N/A
+IBER-MX-0174,2024-12-04 17:21:16,Ingreso: Venta Energía,26598249.61,Elena Gómez (Operaciones),Bufete Penal SL,"Texas, USA",Pago Manual,36,False,N/A
+IBER-MX-0272,2024-12-05 01:05:29,Ingreso: Venta Energía,12022063.59,Javier Lopez (M&A),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,62,False,N/A
+IBER-MX-0051,2024-12-06 08:02:02,Ingreso: Venta Energía,19757023.94,Sin Asignar,Desarrollos Eólicos MX,"Nuevo León, MX",Caja Digital I-Risk,32,False,N/A
+IBER-MX-0285,2024-12-09 06:03:41,Ingreso: Venta Energía,28280817.69,Ana Torres (Finanzas),CFE México,"Nuevo León, MX",Wire Transfer SWIFT,24,False,N/A
+IBER-MX-0251,2024-12-09 15:04:15,Ingreso: Venta Energía,49936310.7,Ana Torres (Finanzas),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0430,2024-12-09 23:20:19,Egreso: Pago a Proveedor,45487665.08,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Wire Transfer SWIFT,25,False,N/A
+IBER-MX-0288,2024-12-13 15:17:25,Movimiento: Ajuste Contable,275519.69,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Jalisco, MX",Transferencia SPEI MX,26,False,N/A
+IBER-MX-0398,2024-12-15 01:20:29,Egreso: Pago a Proveedor,49927882.77,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,78,False,N/A
+IBER-MX-0039,2024-12-15 18:33:43,Egreso: Pago a Proveedor,26638485.78,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Nuevo León, MX",Wire Transfer SWIFT,16,False,N/A
+IBER-MX-0303,2024-12-16 10:44:23,Ingreso: Venta Energía,20361415.58,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Transferencia SPEI MX,68,False,N/A
+IBER-MX-0146,2024-12-20 03:44:26,Movimiento: Ajuste Contable,189221.62,Elena Gómez (Operaciones),Bufete Penal SL,"Veracruz, MX",Wire Transfer SWIFT,73,False,N/A
+IBER-MX-0232,2024-12-22 13:16:12,Acción: Inversión en Redes,47007449.04,Javier Lopez (M&A),CFE México,"Ciudad de México, MX",Wire Transfer SWIFT,40,False,N/A
+IBER-MX-0284,2024-12-23 20:10:24,Ingreso: Venta Energía,7418152.61,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Ciudad de México, MX",Caja Digital I-Risk,48,False,N/A
+IBER-MX-0022,2024-12-27 13:47:33,Movimiento: Ajuste Contable,445905.18,Ana Torres (Finanzas),CFE México,"Nuevo León, MX",Transferencia SPEI MX,94,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0435,2024-12-28 01:22:27,Egreso: Pago a Proveedor,19346697.43,Javier Lopez (M&A),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,73,False,N/A
+IBER-MX-0324,2024-12-29 08:30:05,Egreso: Multa Regulatoria,1503263.61,Elena Gómez (Operaciones),GE Energy,"Texas, USA",Transferencia SPEI MX,90,False,N/A
+IBER-MX-0210,2024-12-29 08:33:39,Ingreso: Venta Energía,10787701.14,Javier Lopez (M&A),Siemens Turbinas,"Nuevo León, MX",Transferencia SPEI MX,30,False,N/A
+IBER-MX-0050,2024-12-29 22:45:10,Ingreso: Venta Energía,12604997.61,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Caja Digital I-Risk,14,False,N/A
+IBER-MX-0302,2024-12-30 03:21:19,Ingreso: Venta Energía,47659321.49,Carlos Ruiz (Cumplimiento),GE Energy,"Ciudad de México, MX",Wire Transfer SWIFT,48,False,N/A
+IBER-MX-0176,2025-01-01 21:14:16,Ingreso: Venta Energía,29673950.7,Ana Torres (Finanzas),SHCP (Regulador),"Jalisco, MX",Caja Digital I-Risk,41,False,N/A
+IBER-MX-0406,2025-01-02 19:58:39,Ingreso: Venta Energía,10343430.15,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Wire Transfer SWIFT,77,False,N/A
+IBER-MX-0263,2025-01-03 06:26:48,Egreso: Pago a Proveedor,36460440.56,Elena Gómez (Operaciones),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,19,False,N/A
+IBER-MX-0216,2025-01-04 14:56:16,Ingreso: Venta Energía,2551300.38,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Monterrey, MX",Caja Digital I-Risk,43,False,N/A
+IBER-MX-0221,2025-01-05 22:07:05,Ingreso: Venta Energía,48635392.63,Elena Gómez (Operaciones),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,90,False,N/A
+IBER-MX-0245,2025-01-07 15:15:44,Ingreso: Venta Energía,4910641.47,Javier Lopez (M&A),Siemens Turbinas,"Texas, USA",Wire Transfer SWIFT,42,False,N/A
+IBER-MX-0433,2025-01-08 23:33:53,Acción: Adquisición Minoritaria,34749064.81,Carlos Ruiz (Cumplimiento),GE Energy,"Nuevo León, MX",Pago Manual,88,False,N/A
+IBER-MX-0205,2025-01-09 04:18:41,Ingreso: Venta Energía,49674474.26,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,33,False,N/A
+IBER-MX-0083,2025-01-10 21:07:10,Ingreso: Venta Energía,33889614.8,Elena Gómez (Operaciones),Bufete Penal SL,"Ciudad de México, MX",Transferencia SPEI MX,29,False,N/A
+IBER-MX-0168,2025-01-10 21:47:13,Ingreso: Venta Energía,21087824.28,Carlos Ruiz (Cumplimiento),CFE México,"Texas, USA",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0111,2025-01-12 08:14:13,Ingreso: Venta Energía,4487317.82,Elena Gómez (Operaciones),CFE México,"Monterrey, MX",Transferencia SPEI MX,32,False,N/A
+IBER-MX-0362,2025-01-14 08:22:33,Movimiento: Ajuste Contable,125975.53,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,43,False,N/A
+IBER-MX-0077,2025-01-14 13:51:17,Ingreso: Venta Energía,16308921.66,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,94,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0246,2025-01-14 14:01:22,Egreso: Pago a Proveedor,40882214.31,Ana Torres (Finanzas),CFE México,"Veracruz, MX",Pago Manual,91,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0173,2025-01-16 00:15:18,Ingreso: Venta Energía,15206330.97,Sin Asignar,Desarrollos Eólicos MX,"Nuevo León, MX",Wire Transfer SWIFT,77,False,N/A
+IBER-MX-0355,2025-01-16 07:38:16,Ingreso: Venta Energía,8013719.46,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,84,False,N/A
+IBER-MX-0377,2025-01-17 10:26:46,Movimiento: Ajuste Contable,172040.26,Javier Lopez (M&A),Desarrollos Eólicos MX,"Monterrey, MX",Wire Transfer SWIFT,28,False,N/A
+IBER-MX-0298,2025-01-18 10:05:19,Ingreso: Venta Energía,42515127.19,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Jalisco, MX",Transferencia SPEI MX,23,False,N/A
+IBER-MX-0381,2025-01-18 23:17:56,Ingreso: Venta Energía,40336650.56,Ana Torres (Finanzas),Bufete Penal SL,"Madrid, ES",Transferencia SPEI MX,29,False,N/A
+IBER-MX-0460,2025-01-19 04:48:35,Egreso: Pago a Proveedor,26302682.32,Elena Gómez (Operaciones),GE Energy,"Madrid, ES",Transferencia SPEI MX,25,False,N/A
+IBER-MX-0122,2025-01-20 19:04:08,Acción: Adquisición Minoritaria,21662113.95,Elena Gómez (Operaciones),Siemens Turbinas,"Monterrey, MX",Caja Digital I-Risk,51,False,N/A
+IBER-MX-0369,2025-01-23 14:17:45,Movimiento: Ajuste Contable,247136.55,Sin Asignar,Siemens Turbinas,"Veracruz, MX",Transferencia SPEI MX,65,False,N/A
+IBER-MX-0363,2025-01-24 19:15:26,Ingreso: Venta Energía,10221679.65,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,54,False,N/A
+IBER-MX-0499,2025-01-25 11:24:03,Egreso: Multa Regulatoria,1352933.45,Javier Lopez (M&A),Bufete Penal SL,"Jalisco, MX",Caja Digital I-Risk,48,False,N/A
+IBER-MX-0387,2025-01-28 01:38:33,Ingreso: Venta Energía,45947543.71,Elena Gómez (Operaciones),Auditoría Interna,"Monterrey, MX",Caja Digital I-Risk,13,False,N/A
+IBER-MX-0420,2025-01-31 13:09:29,Egreso: Pago a Proveedor,1841358.14,Javier Lopez (M&A),Siemens Turbinas,"Ciudad de México, MX",Caja Digital I-Risk,42,False,N/A
+IBER-MX-0243,2025-02-02 23:07:38,Ingreso: Venta Energía,5748312.67,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Jalisco, MX",Caja Digital I-Risk,40,False,N/A
+IBER-MX-0131,2025-02-03 05:16:53,Movimiento: Ajuste Contable,453405.68,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Nuevo León, MX",Caja Digital I-Risk,27,False,N/A
+IBER-MX-0223,2025-02-03 19:45:10,Acción: Inversión en Redes,37054907.95,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Madrid, ES",Wire Transfer SWIFT,41,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0479,2025-02-05 11:08:05,Ingreso: Venta Energía,37425613.59,Carlos Ruiz (Cumplimiento),CFE México,"Jalisco, MX",Caja Digital I-Risk,83,False,N/A
+IBER-MX-0351,2025-02-07 06:06:21,Movimiento: Ajuste Contable,248733.31,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Texas, USA",Wire Transfer SWIFT,12,False,N/A
+IBER-MX-0153,2025-02-08 17:46:45,Egreso: Pago a Proveedor,14135036.6,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Pago Manual,16,False,N/A
+IBER-MX-0005,2025-02-09 00:37:14,Ingreso: Venta Energía,16197934.73,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,63,False,N/A
+IBER-MX-0123,2025-02-09 00:46:51,Movimiento: Ajuste Contable,119873.36,Javier Lopez (M&A),Auditoría Interna,"Ciudad de México, MX",Transferencia SPEI MX,64,False,N/A
+IBER-MX-0444,2025-02-09 23:47:44,Acción: Adquisición Minoritaria,488847.21,Javier Lopez (M&A),CFE México,"Madrid, ES",Wire Transfer SWIFT,26,False,N/A
+IBER-MX-0318,2025-02-10 16:00:28,Egreso: Pago a Proveedor,5884180.2,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Nuevo León, MX",Pago Manual,44,False,N/A
+IBER-MX-0037,2025-02-11 02:49:00,Ingreso: Venta Energía,12343414.57,Ana Torres (Finanzas),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0155,2025-02-11 22:40:35,Ingreso: Venta Energía,41375511.5,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,42,False,N/A
+IBER-MX-0167,2025-02-11 23:06:43,Egreso: Honorarios Legales,1665805.17,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,33,False,N/A
+IBER-MX-0431,2025-02-12 00:25:02,Ingreso: Venta Energía,29213484.61,Elena Gómez (Operaciones),GE Energy,"Ciudad de México, MX",Caja Digital I-Risk,76,False,N/A
+IBER-MX-0413,2025-02-13 02:18:01,Egreso: Pago a Proveedor,14250296.87,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,45,False,N/A
+IBER-MX-0088,2025-02-13 12:18:24,Movimiento: Ajuste Contable,151991.51,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Madrid, ES",Transferencia SPEI MX,54,False,N/A
+IBER-MX-0038,2025-02-14 12:36:25,Movimiento: Ajuste Contable,470861.94,Javier Lopez (M&A),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,90,False,N/A
+IBER-MX-0265,2025-02-15 04:32:22,Ingreso: Venta Energía,29136295.99,Sin Asignar,GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,59,False,N/A
+IBER-MX-0271,2025-02-18 05:54:33,Ingreso: Venta Energía,18921910.57,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,86,False,N/A
+IBER-MX-0197,2025-02-19 19:25:13,Movimiento: Ajuste Contable,74066.69,Elena Gómez (Operaciones),GE Energy,"Jalisco, MX",Transferencia SPEI MX,91,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0004,2025-02-21 02:48:53,Ingreso: Venta Energía,45717952.44,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Madrid, ES",Wire Transfer SWIFT,13,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0248,2025-02-21 14:42:10,Egreso: Pago a Proveedor,44275408.58,Elena Gómez (Operaciones),Siemens Turbinas,"Nuevo León, MX",Caja Digital I-Risk,75,False,N/A
+IBER-MX-0374,2025-02-22 12:33:20,Ingreso: Venta Energía,37264562.75,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,62,False,N/A
+IBER-MX-0315,2025-02-24 08:24:08,Egreso: Pago a Proveedor,33816291.17,Ana Torres (Finanzas),Bufete Penal SL,"Ciudad de México, MX",Transferencia SPEI MX,41,False,N/A
+IBER-MX-0117,2025-02-26 08:37:47,Ingreso: Venta Energía,6829938.48,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Texas, USA",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0424,2025-02-28 03:15:22,Acción: Inversión en Redes,48296127.06,Javier Lopez (M&A),Desarrollos Eólicos MX,"Veracruz, MX",Pago Manual,39,False,N/A
+IBER-MX-0256,2025-02-28 04:05:33,Ingreso: Venta Energía,15662211.45,Elena Gómez (Operaciones),Auditoría Interna,"Jalisco, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0388,2025-02-28 04:23:02,Ingreso: Venta Energía,34128126.04,Sin Asignar,SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,71,False,N/A
+IBER-MX-0139,2025-02-28 16:56:10,Ingreso: Venta Energía,39113002.72,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Madrid, ES",Wire Transfer SWIFT,57,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0438,2025-03-01 19:02:32,Egreso: Pago a Proveedor,2631415.84,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Madrid, ES",Transferencia SPEI MX,80,False,N/A
+IBER-MX-0090,2025-03-02 02:39:40,Ingreso: Venta Energía,45228710.76,Elena Gómez (Operaciones),Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,11,False,N/A
+IBER-MX-0152,2025-03-03 13:57:09,Egreso: Pago a Proveedor,30984377.59,Sin Asignar,GE Energy,"Madrid, ES",Transferencia SPEI MX,67,False,N/A
+IBER-MX-0222,2025-03-04 16:11:16,Ingreso: Venta Energía,49292510.68,Ana Torres (Finanzas),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,83,False,N/A
+IBER-MX-0096,2025-03-12 16:16:17,Ingreso: Venta Energía,3917635.77,Elena Gómez (Operaciones),Bufete Penal SL,"Texas, USA",Caja Digital I-Risk,32,False,N/A
+IBER-MX-0259,2025-03-12 18:03:52,Egreso: Pago a Proveedor,5187554.6,Sin Asignar,GE Energy,"Veracruz, MX",Transferencia SPEI MX,78,False,N/A
+IBER-MX-0293,2025-03-13 00:46:50,Egreso: Pago a Proveedor,39735068.05,Javier Lopez (M&A),Bufete Penal SL,"Nuevo León, MX",Pago Manual,61,False,N/A
+IBER-MX-0477,2025-03-16 17:26:41,Egreso: Pago a Proveedor,35772949.43,Sin Asignar,Bufete Penal SL,"Ciudad de México, MX",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0023,2025-03-18 14:19:48,Movimiento: Ajuste Contable,302944.97,Javier Lopez (M&A),Desarrollos Eólicos MX,"Jalisco, MX",Transferencia SPEI MX,37,False,N/A
+IBER-MX-0219,2025-03-20 18:52:54,Egreso: Pago a Proveedor,8760234.55,Ana Torres (Finanzas),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,68,False,N/A
+IBER-MX-0314,2025-03-22 10:48:43,Egreso: Pago a Proveedor,2566829.61,Elena Gómez (Operaciones),Siemens Turbinas,"Veracruz, MX",Caja Digital I-Risk,87,False,N/A
+IBER-MX-0490,2025-03-22 12:48:36,Ingreso: Venta Energía,23354893.84,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Wire Transfer SWIFT,62,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0124,2025-03-23 00:48:24,Movimiento: Ajuste Contable,458002.6,Elena Gómez (Operaciones),Auditoría Interna,"Veracruz, MX",Wire Transfer SWIFT,77,False,N/A
+IBER-MX-0112,2025-03-24 12:52:40,Egreso: Honorarios Legales,4909321.66,Sin Asignar,Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,48,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0063,2025-03-25 08:39:15,Ingreso: Venta Energía,23748325.31,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Ciudad de México, MX",Caja Digital I-Risk,19,False,N/A
+IBER-MX-0130,2025-03-25 19:25:35,Acción: Inversión en Redes,6543202.46,Javier Lopez (M&A),Siemens Turbinas,"Monterrey, MX",Transferencia SPEI MX,24,False,N/A
+IBER-MX-0062,2025-03-27 05:32:38,Ingreso: Venta Energía,36008751.71,Javier Lopez (M&A),CFE México,"Jalisco, MX",Caja Digital I-Risk,39,False,N/A
+IBER-MX-0102,2025-03-27 12:10:30,Ingreso: Venta Energía,13371905.23,Javier Lopez (M&A),Auditoría Interna,"Madrid, ES",Caja Digital I-Risk,62,False,N/A
+IBER-MX-0025,2025-03-28 04:45:36,Ingreso: Venta Energía,44808393.94,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Veracruz, MX",Transferencia SPEI MX,46,False,N/A
+IBER-MX-0003,2025-03-31 13:59:13,Ingreso: Venta Energía,48673929.87,Sin Asignar,Desarrollos Eólicos MX,"Jalisco, MX",Transferencia SPEI MX,22,False,N/A
+IBER-MX-0391,2025-03-31 23:56:30,Ingreso: Venta Energía,29304179.52,Javier Lopez (M&A),SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,31,False,N/A
+IBER-MX-0247,2025-04-01 17:14:36,Ingreso: Venta Energía,34762074.3,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,45,False,N/A
+IBER-MX-0079,2025-04-02 05:02:13,Acción: Inversión en Redes,23719161.35,Javier Lopez (M&A),Bufete Penal SL,"Jalisco, MX",Caja Digital I-Risk,18,False,N/A
+IBER-MX-0320,2025-04-02 22:38:27,Ingreso: Venta Energía,6023780.35,Elena Gómez (Operaciones),SHCP (Regulador),"Veracruz, MX",Transferencia SPEI MX,49,False,N/A
+IBER-MX-0455,2025-04-03 09:47:25,Ingreso: Venta Energía,16979322.54,Elena Gómez (Operaciones),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,74,False,N/A
+IBER-MX-0133,2025-04-07 00:54:45,Ingreso: Venta Energía,45302892.4,Elena Gómez (Operaciones),Bufete Penal SL,"Monterrey, MX",Transferencia SPEI MX,22,False,N/A
+IBER-MX-0418,2025-04-07 18:00:12,Ingreso: Venta Energía,909575.79,Elena Gómez (Operaciones),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,81,False,N/A
+IBER-MX-0345,2025-04-08 04:30:02,Acción: Inversión en Redes,34249623.07,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,69,False,N/A
+IBER-MX-0446,2025-04-13 14:22:22,Ingreso: Venta Energía,44786366.8,Ana Torres (Finanzas),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,48,False,N/A
+IBER-MX-0055,2025-04-14 23:13:25,Ingreso: Venta Energía,3066869.63,Elena Gómez (Operaciones),CFE México,"Jalisco, MX",Pago Manual,57,False,N/A
+IBER-MX-0497,2025-04-15 23:00:00,Ingreso: Venta Energía,46523521.87,Elena Gómez (Operaciones),Siemens Turbinas,"Monterrey, MX",Transferencia SPEI MX,56,False,N/A
+IBER-MX-0294,2025-04-17 05:08:28,Ingreso: Venta Energía,687151.9,Sin Asignar,Desarrollos Eólicos MX,"Jalisco, MX",Caja Digital I-Risk,31,False,N/A
+IBER-MX-0287,2025-04-18 21:14:13,Movimiento: Ajuste Contable,315368.43,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0107,2025-04-19 01:15:23,Egreso: Pago a Proveedor,22032078.98,Elena Gómez (Operaciones),CFE México,"Ciudad de México, MX",Wire Transfer SWIFT,34,False,N/A
+IBER-MX-0301,2025-04-20 06:51:54,Ingreso: Venta Energía,37021353.36,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Veracruz, MX",Caja Digital I-Risk,67,False,N/A
+IBER-MX-0170,2025-04-22 08:14:50,Acción: Inversión en Redes,12570864.08,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Monterrey, MX",Transferencia SPEI MX,49,False,N/A
+IBER-MX-0368,2025-04-23 03:19:41,Egreso: Pago a Proveedor,10396972.98,Javier Lopez (M&A),SHCP (Regulador),"Madrid, ES",Caja Digital I-Risk,83,False,N/A
+IBER-MX-0029,2025-04-23 03:38:08,Movimiento: Ajuste Contable,442917.04,Elena Gómez (Operaciones),CFE México,"Texas, USA",Caja Digital I-Risk,20,False,N/A
+IBER-MX-0060,2025-04-23 17:50:23,Ingreso: Venta Energía,7877475.13,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,61,False,N/A
+IBER-MX-0043,2025-04-24 14:18:08,Egreso: Pago a Proveedor,27445217.2,Sin Asignar,Desarrollos Eólicos MX,"Ciudad de México, MX",Caja Digital I-Risk,17,False,N/A
+IBER-MX-0244,2025-04-25 04:32:24,Ingreso: Venta Energía,29170650.44,Elena Gómez (Operaciones),CFE México,"Ciudad de México, MX",Caja Digital I-Risk,78,False,N/A
+IBER-MX-0405,2025-04-26 03:49:37,Movimiento: Ajuste Contable,397872.65,Ana Torres (Finanzas),SHCP (Regulador),"Madrid, ES",Pago Manual,52,False,N/A
+IBER-MX-0380,2025-04-28 20:10:08,Ingreso: Venta Energía,33331646.45,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,77,False,N/A
+IBER-MX-0370,2025-04-30 07:58:45,Movimiento: Ajuste Contable,223839.78,Javier Lopez (M&A),CFE México,"Ciudad de México, MX",Wire Transfer SWIFT,68,False,N/A
+IBER-MX-0254,2025-05-02 10:26:56,Egreso: Pago a Proveedor,38428782.44,Ana Torres (Finanzas),GE Energy,"Nuevo León, MX",Transferencia SPEI MX,47,False,N/A
+IBER-MX-0273,2025-05-03 03:55:37,Acción: Adquisición Minoritaria,5014704.76,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Ciudad de México, MX",Caja Digital I-Risk,85,False,N/A
+IBER-MX-0075,2025-05-03 05:47:03,Acción: Adquisición Minoritaria,20658007.39,Sin Asignar,Bufete Penal SL,"Madrid, ES",Wire Transfer SWIFT,50,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0009,2025-05-04 03:50:06,Ingreso: Venta Energía,40717940.55,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Madrid, ES",Caja Digital I-Risk,42,False,N/A
+IBER-MX-0437,2025-05-04 15:52:17,Egreso: Pago a Proveedor,24573394.91,Javier Lopez (M&A),Auditoría Interna,"Veracruz, MX",Wire Transfer SWIFT,51,False,N/A
+IBER-MX-0228,2025-05-04 20:20:38,Acción: Inversión en Redes,19264949.42,Elena Gómez (Operaciones),Auditoría Interna,"Texas, USA",Transferencia SPEI MX,89,False,N/A
+IBER-MX-0389,2025-05-05 13:19:27,Movimiento: Ajuste Contable,146527.62,Javier Lopez (M&A),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,57,False,N/A
+IBER-MX-0275,2025-05-07 15:27:09,Movimiento: Ajuste Contable,355713.02,Javier Lopez (M&A),Siemens Turbinas,"Madrid, ES",Transferencia SPEI MX,21,False,N/A
+IBER-MX-0010,2025-05-07 17:43:51,Ingreso: Venta Energía,46240644.57,Sin Asignar,Desarrollos Eólicos MX,"Texas, USA",Wire Transfer SWIFT,25,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0376,2025-05-08 11:32:00,Ingreso: Venta Energía,14713709.91,Elena Gómez (Operaciones),Siemens Turbinas,"Ciudad de México, MX",Caja Digital I-Risk,90,False,N/A
+IBER-MX-0072,2025-05-08 19:27:02,Acción: Inversión en Redes,18866361.51,Sin Asignar,SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,53,False,N/A
+IBER-MX-0299,2025-05-10 04:16:32,Ingreso: Venta Energía,31330535.64,Elena Gómez (Operaciones),GE Energy,"Monterrey, MX",Pago Manual,21,False,N/A
+IBER-MX-0114,2025-05-11 01:27:56,Ingreso: Venta Energía,29351180.8,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Madrid, ES",Transferencia SPEI MX,20,False,N/A
+IBER-MX-0020,2025-05-12 14:18:42,Egreso: Pago a Proveedor,167338.8,Ana Torres (Finanzas),GE Energy,"Ciudad de México, MX",Wire Transfer SWIFT,92,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0159,2025-05-13 07:17:03,Acción: Inversión en Redes,1026816.49,Sin Asignar,Siemens Turbinas,"Monterrey, MX",Wire Transfer SWIFT,78,False,N/A
+IBER-MX-0249,2025-05-19 10:51:19,Ingreso: Venta Energía,4893432.12,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Ciudad de México, MX",Caja Digital I-Risk,43,False,N/A
+IBER-MX-0422,2025-05-19 18:38:41,Egreso: Pago a Proveedor,31013587.59,Sin Asignar,Desarrollos Eólicos MX,"Madrid, ES",Wire Transfer SWIFT,28,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0143,2025-05-20 16:29:23,Egreso: Pago a Proveedor,13360129.8,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Madrid, ES",Wire Transfer SWIFT,27,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0093,2025-05-24 01:00:12,Egreso: Pago a Proveedor,34128723.71,Elena Gómez (Operaciones),SHCP (Regulador),"Nuevo León, MX",Transferencia SPEI MX,20,False,N/A
+IBER-MX-0337,2025-05-24 11:18:59,Ingreso: Venta Energía,16431724.55,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Monterrey, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0061,2025-05-25 11:20:03,Ingreso: Venta Energía,34929165.76,Elena Gómez (Operaciones),Auditoría Interna,"Monterrey, MX",Wire Transfer SWIFT,88,False,N/A
+IBER-MX-0059,2025-05-26 23:43:03,Ingreso: Venta Energía,48272381.44,Ana Torres (Finanzas),CFE México,"Madrid, ES",Wire Transfer SWIFT,86,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0258,2025-05-28 20:50:08,Acción: Adquisición Minoritaria,8688720.61,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,75,False,N/A
+IBER-MX-0339,2025-05-30 04:52:55,Acción: Adquisición Minoritaria,27646236.08,Ana Torres (Finanzas),Auditoría Interna,"Jalisco, MX",Wire Transfer SWIFT,20,False,N/A
+IBER-MX-0350,2025-05-30 14:11:22,Egreso: Pago a Proveedor,32735237.68,Sin Asignar,Auditoría Interna,"Monterrey, MX",Wire Transfer SWIFT,62,False,N/A
+IBER-MX-0035,2025-05-30 20:08:20,Movimiento: Ajuste Contable,93675.96,Elena Gómez (Operaciones),CFE México,"Ciudad de México, MX",Transferencia SPEI MX,65,False,N/A
+IBER-MX-0085,2025-05-31 14:18:18,Ingreso: Venta Energía,25050698.25,Elena Gómez (Operaciones),Siemens Turbinas,"Veracruz, MX",Wire Transfer SWIFT,89,False,N/A
+IBER-MX-0474,2025-06-01 01:28:45,Movimiento: Ajuste Contable,192595.06,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,69,False,N/A
+IBER-MX-0073,2025-06-01 07:49:17,Movimiento: Ajuste Contable,72734.92,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Veracruz, MX",Pago Manual,71,False,N/A
+IBER-MX-0331,2025-06-02 00:54:13,Egreso: Pago a Proveedor,40240298.19,Javier Lopez (M&A),SHCP (Regulador),"Monterrey, MX",Transferencia SPEI MX,78,False,N/A
+IBER-MX-0266,2025-06-02 22:54:08,Movimiento: Ajuste Contable,215363.87,Javier Lopez (M&A),Auditoría Interna,"Veracruz, MX",Transferencia SPEI MX,93,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0113,2025-06-09 01:52:36,Egreso: Pago a Proveedor,45013044.24,Ana Torres (Finanzas),CFE México,"Veracruz, MX",Pago Manual,59,False,N/A
+IBER-MX-0419,2025-06-09 14:42:41,Ingreso: Venta Energía,19236483.79,Sin Asignar,Desarrollos Eólicos MX,"Nuevo León, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0206,2025-06-10 00:58:01,Acción: Inversión en Redes,8060525.41,Carlos Ruiz (Cumplimiento),GE Energy,"Jalisco, MX",Transferencia SPEI MX,23,False,N/A
+IBER-MX-0312,2025-06-10 05:21:37,Movimiento: Ajuste Contable,11851.14,Carlos Ruiz (Cumplimiento),CFE México,"Veracruz, MX",Caja Digital I-Risk,70,False,N/A
+IBER-MX-0486,2025-06-10 21:33:19,Acción: Adquisición Minoritaria,49732229.29,Javier Lopez (M&A),CFE México,"Monterrey, MX",Pago Manual,85,False,N/A
+IBER-MX-0078,2025-06-11 20:53:39,Acción: Inversión en Redes,5867963.9,Ana Torres (Finanzas),GE Energy,"Ciudad de México, MX",Caja Digital I-Risk,50,False,N/A
+IBER-MX-0366,2025-06-12 18:41:11,Ingreso: Venta Energía,30477072.73,Ana Torres (Finanzas),Desarrollos Eólicos MX,"Monterrey, MX",Transferencia SPEI MX,62,False,N/A
+IBER-MX-0421,2025-06-13 08:00:45,Movimiento: Ajuste Contable,341568.47,Javier Lopez (M&A),Desarrollos Eólicos MX,"Monterrey, MX",Caja Digital I-Risk,24,False,N/A
+IBER-MX-0472,2025-06-13 22:26:16,Acción: Adquisición Minoritaria,41155145.66,Elena Gómez (Operaciones),Bufete Penal SL,"Monterrey, MX",Caja Digital I-Risk,67,False,N/A
+IBER-MX-0408,2025-06-15 18:31:26,Egreso: Honorarios Legales,2255647.33,Javier Lopez (M&A),SHCP (Regulador),"Nuevo León, MX",Transferencia SPEI MX,37,False,N/A
+IBER-MX-0478,2025-06-16 16:44:22,Ingreso: Venta Energía,4797098.38,Ana Torres (Finanzas),SHCP (Regulador),"Nuevo León, MX",Wire Transfer SWIFT,55,False,N/A
+IBER-MX-0169,2025-06-18 05:03:42,Ingreso: Venta Energía,11689070.32,Javier Lopez (M&A),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,81,False,N/A
+IBER-MX-0268,2025-06-18 15:14:10,Movimiento: Ajuste Contable,103081.11,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,31,False,N/A
+IBER-MX-0397,2025-06-20 18:26:38,Ingreso: Venta Energía,17744347.94,Javier Lopez (M&A),Desarrollos Eólicos MX,"Texas, USA",Wire Transfer SWIFT,45,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0151,2025-06-21 04:37:50,Acción: Inversión en Redes,41106070.01,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,16,False,N/A
+IBER-MX-0429,2025-06-21 18:30:47,Ingreso: Venta Energía,20849135.29,Carlos Ruiz (Cumplimiento),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,80,False,N/A
+IBER-MX-0196,2025-06-22 00:26:19,Egreso: Pago a Proveedor,7963836.69,Ana Torres (Finanzas),Bufete Penal SL,"Monterrey, MX",Wire Transfer SWIFT,86,False,N/A
+IBER-MX-0161,2025-06-24 14:58:41,Ingreso: Venta Energía,35762824.98,Sin Asignar,SHCP (Regulador),"Madrid, ES",Transferencia SPEI MX,42,False,N/A
+IBER-MX-0162,2025-06-25 19:36:11,Egreso: Honorarios Legales,2546824.57,Ana Torres (Finanzas),Siemens Turbinas,"Veracruz, MX",Transferencia SPEI MX,11,False,N/A
+IBER-MX-0403,2025-06-26 16:06:01,Ingreso: Venta Energía,43606497.52,Javier Lopez (M&A),CFE México,"Jalisco, MX",Caja Digital I-Risk,35,False,N/A
+IBER-MX-0230,2025-06-28 04:55:48,Acción: Inversión en Redes,48561807.59,Sin Asignar,GE Energy,"Jalisco, MX",Pago Manual,84,False,N/A
+IBER-MX-0116,2025-06-29 05:37:40,Egreso: Pago a Proveedor,13300587.14,Elena Gómez (Operaciones),GE Energy,"Ciudad de México, MX",Wire Transfer SWIFT,79,False,N/A
+IBER-MX-0359,2025-06-30 01:26:00,Ingreso: Venta Energía,42095790.95,Ana Torres (Finanzas),GE Energy,"Monterrey, MX",Transferencia SPEI MX,92,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0179,2025-06-30 18:54:22,Ingreso: Venta Energía,46144243.03,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Ciudad de México, MX",Transferencia SPEI MX,72,False,N/A
+IBER-MX-0327,2025-07-01 08:25:06,Movimiento: Ajuste Contable,137355.5,Javier Lopez (M&A),Desarrollos Eólicos MX,"Monterrey, MX",Caja Digital I-Risk,50,False,N/A
+IBER-MX-0382,2025-07-01 14:27:29,Acción: Inversión en Redes,32539386.18,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Jalisco, MX",Wire Transfer SWIFT,83,False,N/A
+IBER-MX-0428,2025-07-04 04:37:00,Egreso: Pago a Proveedor,2111826.64,Javier Lopez (M&A),Desarrollos Eólicos MX,"Ciudad de México, MX",Transferencia SPEI MX,73,False,N/A
+IBER-MX-0132,2025-07-04 18:49:00,Ingreso: Venta Energía,38126660.82,Javier Lopez (M&A),Siemens Turbinas,"Madrid, ES",Wire Transfer SWIFT,33,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0082,2025-07-04 20:49:23,Ingreso: Venta Energía,22242897.03,Sin Asignar,GE Energy,"Monterrey, MX",Wire Transfer SWIFT,12,False,N/A
+IBER-MX-0084,2025-07-05 02:09:25,Acción: Inversión en Redes,38236934.69,Sin Asignar,Auditoría Interna,"Monterrey, MX",Transferencia SPEI MX,64,False,N/A
+IBER-MX-0269,2025-07-06 04:02:41,Ingreso: Venta Energía,32980186.83,Javier Lopez (M&A),GE Energy,"Texas, USA",Transferencia SPEI MX,27,False,N/A
+IBER-MX-0297,2025-07-06 11:40:50,Ingreso: Venta Energía,31296616.88,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Veracruz, MX",Pago Manual,68,False,N/A
+IBER-MX-0465,2025-07-07 02:20:45,Ingreso: Venta Energía,30535202.81,Ana Torres (Finanzas),Auditoría Interna,"Monterrey, MX",Transferencia SPEI MX,67,False,N/A
+IBER-MX-0121,2025-07-10 00:04:39,Ingreso: Venta Energía,22640009.47,Sin Asignar,Auditoría Interna,"Jalisco, MX",Transferencia SPEI MX,76,False,N/A
+IBER-MX-0032,2025-07-10 14:06:01,Ingreso: Venta Energía,19230184.96,Sin Asignar,Auditoría Interna,"Texas, USA",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0454,2025-07-11 19:09:49,Egreso: Multa Regulatoria,1821500.17,Elena Gómez (Operaciones),Siemens Turbinas,"Madrid, ES",Caja Digital I-Risk,45,False,N/A
+IBER-MX-0328,2025-07-12 02:51:27,Ingreso: Venta Energía,12279825.67,Sin Asignar,GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,34,False,N/A
+IBER-MX-0220,2025-07-14 02:58:12,Ingreso: Venta Energía,5825361.99,Elena Gómez (Operaciones),CFE México,"Veracruz, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0180,2025-07-14 06:04:32,Movimiento: Ajuste Contable,289747.34,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Monterrey, MX",Transferencia SPEI MX,57,False,N/A
+IBER-MX-0018,2025-07-15 00:50:55,Acción: Adquisición Minoritaria,30804339.14,Sin Asignar,GE Energy,"Nuevo León, MX",Pago Manual,86,False,N/A
+IBER-MX-0464,2025-07-16 08:14:42,Ingreso: Venta Energía,25012028.04,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Madrid, ES",Caja Digital I-Risk,41,False,N/A
+IBER-MX-0115,2025-07-18 01:53:27,Egreso: Pago a Proveedor,4933486.85,Ana Torres (Finanzas),Auditoría Interna,"Nuevo León, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0394,2025-07-18 07:53:32,Acción: Adquisición Minoritaria,35289457.28,Javier Lopez (M&A),Bufete Penal SL,"Texas, USA",Wire Transfer SWIFT,86,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0255,2025-07-18 19:57:15,Ingreso: Venta Energía,43318785.51,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Ciudad de México, MX",Caja Digital I-Risk,94,True,Puntuación de Riesgo Extrema (>90)
+IBER-MX-0252,2025-07-19 08:18:36,Movimiento: Ajuste Contable,431980.23,Javier Lopez (M&A),Bufete Penal SL,"Texas, USA",Caja Digital I-Risk,44,False,N/A
+IBER-MX-0053,2025-07-19 09:19:49,Acción: Inversión en Redes,17536479.07,Sin Asignar,Auditoría Interna,"Monterrey, MX",Wire Transfer SWIFT,27,False,N/A
+IBER-MX-0218,2025-07-19 13:29:22,Acción: Inversión en Redes,5583006.54,Ana Torres (Finanzas),Bufete Penal SL,"Madrid, ES",Wire Transfer SWIFT,77,False,N/A
+IBER-MX-0449,2025-07-22 11:34:41,Movimiento: Ajuste Contable,102853.49,Javier Lopez (M&A),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,25,False,N/A
+IBER-MX-0411,2025-07-24 06:27:48,Egreso: Pago a Proveedor,47432813.31,Carlos Ruiz (Cumplimiento),SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,39,False,N/A
+IBER-MX-0041,2025-07-25 03:15:52,Egreso: Pago a Proveedor,35679994.82,Javier Lopez (M&A),CFE México,"Jalisco, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0373,2025-07-27 09:28:33,Egreso: Pago a Proveedor,44630097.13,Ana Torres (Finanzas),SHCP (Regulador),"Ciudad de México, MX",Caja Digital I-Risk,61,False,N/A
+IBER-MX-0313,2025-07-30 22:30:51,Ingreso: Venta Energía,27257140.61,Carlos Ruiz (Cumplimiento),GE Energy,"Madrid, ES",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0125,2025-08-01 01:24:49,Ingreso: Venta Energía,1642159.98,Javier Lopez (M&A),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,12,False,N/A
+IBER-MX-0423,2025-08-01 03:48:45,Ingreso: Venta Energía,25715629.08,Carlos Ruiz (Cumplimiento),GE Energy,"Monterrey, MX",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0097,2025-08-02 14:02:27,Egreso: Pago a Proveedor,19199746.2,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,89,False,N/A
+IBER-MX-0278,2025-08-02 14:49:45,Ingreso: Venta Energía,20320156.11,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Nuevo León, MX",Wire Transfer SWIFT,20,False,N/A
+IBER-MX-0099,2025-08-02 16:40:45,Ingreso: Venta Energía,23588366.51,Javier Lopez (M&A),Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,29,False,N/A
+IBER-MX-0375,2025-08-07 06:33:05,Acción: Adquisición Minoritaria,4749530.52,Sin Asignar,CFE México,"Ciudad de México, MX",Transferencia SPEI MX,52,False,N/A
+IBER-MX-0440,2025-08-08 23:28:12,Acción: Inversión en Redes,34223737.52,Javier Lopez (M&A),GE Energy,"Monterrey, MX",Caja Digital I-Risk,43,False,N/A
+IBER-MX-0229,2025-08-11 13:19:28,Movimiento: Ajuste Contable,471178.86,Javier Lopez (M&A),Desarrollos Eólicos MX,"Texas, USA",Pago Manual,43,False,N/A
+IBER-MX-0333,2025-08-12 02:39:16,Movimiento: Ajuste Contable,264626.12,Sin Asignar,Siemens Turbinas,"Nuevo León, MX",Transferencia SPEI MX,25,False,N/A
+IBER-MX-0208,2025-08-12 22:07:36,Movimiento: Ajuste Contable,429231.38,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0480,2025-08-13 08:08:58,Egreso: Pago a Proveedor,9269040.24,Javier Lopez (M&A),Siemens Turbinas,"Veracruz, MX",Wire Transfer SWIFT,30,False,N/A
+IBER-MX-0140,2025-08-14 10:34:10,Ingreso: Venta Energía,30068416.47,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Wire Transfer SWIFT,58,False,N/A
+IBER-MX-0049,2025-08-17 03:54:24,Movimiento: Ajuste Contable,348961.34,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Ciudad de México, MX",Transferencia SPEI MX,33,False,N/A
+IBER-MX-0484,2025-08-18 04:46:53,Ingreso: Venta Energía,27424559.93,Ana Torres (Finanzas),SHCP (Regulador),"Texas, USA",Caja Digital I-Risk,87,False,N/A
+IBER-MX-0364,2025-08-21 17:33:34,Ingreso: Venta Energía,28200577.16,Ana Torres (Finanzas),SHCP (Regulador),"Veracruz, MX",Caja Digital I-Risk,73,False,N/A
+IBER-MX-0194,2025-08-22 03:55:03,Egreso: Pago a Proveedor,40102868.86,Carlos Ruiz (Cumplimiento),CFE México,"Monterrey, MX",Wire Transfer SWIFT,36,False,N/A
+IBER-MX-0468,2025-08-22 17:30:17,Egreso: Pago a Proveedor,9854401.41,Sin Asignar,Bufete Penal SL,"Jalisco, MX",Wire Transfer SWIFT,74,False,N/A
+IBER-MX-0347,2025-08-23 09:22:49,Ingreso: Venta Energía,23248685.94,Javier Lopez (M&A),GE Energy,"Monterrey, MX",Pago Manual,56,False,N/A
+IBER-MX-0395,2025-08-23 11:14:08,Egreso: Pago a Proveedor,39233231.21,Sin Asignar,Auditoría Interna,"Ciudad de México, MX",Wire Transfer SWIFT,32,False,N/A
+IBER-MX-0182,2025-08-24 16:03:33,Acción: Inversión en Redes,45560978.58,Sin Asignar,GE Energy,"Madrid, ES",Transferencia SPEI MX,31,False,N/A
+IBER-MX-0354,2025-08-27 12:20:26,Ingreso: Venta Energía,1404519.34,Sin Asignar,SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,44,False,N/A
+IBER-MX-0282,2025-08-28 06:21:54,Egreso: Honorarios Legales,3633201.36,Sin Asignar,GE Energy,"Veracruz, MX",Wire Transfer SWIFT,15,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0008,2025-08-31 12:29:54,Egreso: Pago a Proveedor,42838448.01,Ana Torres (Finanzas),SHCP (Regulador),"Jalisco, MX",Transferencia SPEI MX,39,False,N/A
+IBER-MX-0052,2025-09-01 19:55:06,Acción: Inversión en Redes,4482215.39,Carlos Ruiz (Cumplimiento),Bufete Penal SL,"Veracruz, MX",Wire Transfer SWIFT,19,False,N/A
+IBER-MX-0136,2025-09-02 14:53:10,Egreso: Honorarios Legales,4591276.23,Javier Lopez (M&A),Desarrollos Eólicos MX,"Jalisco, MX",Pago Manual,43,False,N/A
+IBER-MX-0283,2025-09-02 23:14:53,Ingreso: Venta Energía,49378245.0,Ana Torres (Finanzas),Bufete Penal SL,"Ciudad de México, MX",Pago Manual,15,False,N/A
+IBER-MX-0046,2025-09-03 16:13:29,Ingreso: Venta Energía,8135023.77,Elena Gómez (Operaciones),SHCP (Regulador),"Nuevo León, MX",Transferencia SPEI MX,83,False,N/A
+IBER-MX-0209,2025-09-04 00:26:04,Acción: Inversión en Redes,4513920.32,Sin Asignar,GE Energy,"Monterrey, MX",Transferencia SPEI MX,77,False,N/A
+IBER-MX-0103,2025-09-05 19:34:06,Acción: Adquisición Minoritaria,45520028.39,Elena Gómez (Operaciones),Auditoría Interna,"Ciudad de México, MX",Caja Digital I-Risk,65,False,N/A
+IBER-MX-0177,2025-09-07 02:51:40,Ingreso: Venta Energía,46402547.21,Elena Gómez (Operaciones),Desarrollos Eólicos MX,"Texas, USA",Transferencia SPEI MX,18,False,N/A
+IBER-MX-0030,2025-09-07 10:43:08,Egreso: Pago a Proveedor,26348961.19,Javier Lopez (M&A),Auditoría Interna,"Ciudad de México, MX",Transferencia SPEI MX,80,False,N/A
+IBER-MX-0451,2025-09-07 16:14:44,Ingreso: Venta Energía,7215551.74,Ana Torres (Finanzas),Auditoría Interna,"Ciudad de México, MX",Wire Transfer SWIFT,11,False,N/A
+IBER-MX-0416,2025-09-10 07:30:37,Acción: Adquisición Minoritaria,23571291.39,Javier Lopez (M&A),Siemens Turbinas,"Ciudad de México, MX",Caja Digital I-Risk,28,False,N/A
+IBER-MX-0002,2025-09-12 16:43:44,Egreso: Pago a Proveedor,48065471.87,Sin Asignar,Bufete Penal SL,"Ciudad de México, MX",Caja Digital I-Risk,24,False,N/A
+IBER-MX-0141,2025-09-16 00:42:36,Egreso: Honorarios Legales,719118.17,Elena Gómez (Operaciones),Bufete Penal SL,"Jalisco, MX",Transferencia SPEI MX,30,False,N/A
+IBER-MX-0482,2025-09-19 22:16:27,Movimiento: Ajuste Contable,145055.99,Ana Torres (Finanzas),CFE México,"Monterrey, MX",Wire Transfer SWIFT,19,False,N/A
+IBER-MX-0028,2025-09-19 22:21:48,Ingreso: Venta Energía,24154216.12,Sin Asignar,Auditoría Interna,"Texas, USA",Caja Digital I-Risk,74,False,N/A
+IBER-MX-0277,2025-09-22 13:46:29,Ingreso: Venta Energía,48287084.95,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Nuevo León, MX",Transferencia SPEI MX,12,False,N/A
+IBER-MX-0225,2025-09-23 23:45:40,Ingreso: Venta Energía,14558536.21,Ana Torres (Finanzas),GE Energy,"Ciudad de México, MX",Transferencia SPEI MX,70,False,N/A
+IBER-MX-0215,2025-09-24 09:36:50,Acción: Inversión en Redes,13446067.46,Elena Gómez (Operaciones),SHCP (Regulador),"Ciudad de México, MX",Wire Transfer SWIFT,25,False,N/A
+IBER-MX-0309,2025-09-24 11:41:57,Egreso: Pago a Proveedor,5939644.79,Javier Lopez (M&A),CFE México,"Jalisco, MX",Transferencia SPEI MX,18,False,N/A
+IBER-MX-0415,2025-09-26 11:09:22,Acción: Adquisición Minoritaria,4494763.94,Ana Torres (Finanzas),Bufete Penal SL,"Texas, USA",Transferencia SPEI MX,90,False,N/A
+IBER-MX-0343,2025-09-26 11:55:21,Movimiento: Ajuste Contable,36834.75,Carlos Ruiz (Cumplimiento),Desarrollos Eólicos MX,"Ciudad de México, MX",Transferencia SPEI MX,11,False,N/A
+IBER-MX-0160,2025-09-28 10:57:27,Ingreso: Venta Energía,42275251.16,Elena Gómez (Operaciones),CFE México,"Texas, USA",Wire Transfer SWIFT,33,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0150,2025-09-29 14:42:35,Ingreso: Venta Energía,5930270.24,Ana Torres (Finanzas),Siemens Turbinas,"Veracruz, MX",Transferencia SPEI MX,43,False,N/A
+IBER-MX-0342,2025-09-29 15:18:32,Egreso: Pago a Proveedor,25421225.54,Sin Asignar,SHCP (Regulador),"Monterrey, MX",Caja Digital I-Risk,58,False,N/A
+IBER-MX-0065,2025-09-29 22:49:14,Acción: Adquisición Minoritaria,12650190.01,Javier Lopez (M&A),Auditoría Interna,"Veracruz, MX",Pago Manual,53,False,N/A
+IBER-MX-0158,2025-09-30 04:16:44,Egreso: Pago a Proveedor,20119745.54,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Texas, USA",Transferencia SPEI MX,15,False,N/A
+IBER-MX-0296,2025-10-02 20:02:34,Ingreso: Venta Energía,35352776.84,Javier Lopez (M&A),SHCP (Regulador),"Texas, USA",Transferencia SPEI MX,89,False,N/A
+IBER-MX-0401,2025-10-05 03:26:15,Movimiento: Ajuste Contable,286315.84,Ana Torres (Finanzas),CFE México,"Texas, USA",Transferencia SPEI MX,29,False,N/A
+IBER-MX-0481,2025-10-05 04:20:47,Egreso: Honorarios Legales,4877160.73,Sin Asignar,Siemens Turbinas,"Monterrey, MX",Wire Transfer SWIFT,27,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0390,2025-10-07 01:18:05,Ingreso: Venta Energía,3030055.51,Sin Asignar,Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,11,False,N/A
+IBER-MX-0289,2025-10-08 02:44:16,Egreso: Pago a Proveedor,29676187.11,Ana Torres (Finanzas),Siemens Turbinas,"Ciudad de México, MX",Transferencia SPEI MX,89,False,N/A
+IBER-MX-0459,2025-10-11 06:17:23,Ingreso: Venta Energía,26054482.41,Ana Torres (Finanzas),CFE México,"Monterrey, MX",Caja Digital I-Risk,58,False,N/A
+IBER-MX-0378,2025-10-14 16:35:58,Egreso: Honorarios Legales,1992462.18,Elena Gómez (Operaciones),GE Energy,"Madrid, ES",Wire Transfer SWIFT,34,False,N/A
+IBER-MX-0034,2025-10-15 10:38:40,Ingreso: Venta Energía,12009695.54,Carlos Ruiz (Cumplimiento),Auditoría Interna,"Monterrey, MX",Caja Digital I-Risk,12,False,N/A
+IBER-MX-0349,2025-10-15 19:11:32,Egreso: Pago a Proveedor,38623117.63,Sin Asignar,Desarrollos Eólicos MX,"Madrid, ES",Wire Transfer SWIFT,32,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0163,2025-10-16 00:32:34,Egreso: Pago a Proveedor,43133803.4,Ana Torres (Finanzas),Auditoría Interna,"Ciudad de México, MX",Transferencia SPEI MX,27,False,N/A
+IBER-MX-0214,2025-10-18 03:45:55,Ingreso: Venta Energía,32604208.32,Javier Lopez (M&A),Bufete Penal SL,"Texas, USA",Wire Transfer SWIFT,29,True,Transacción SWIFT de Alto Monto/Jurisdicción
+IBER-MX-0290,2025-10-19 11:24:01,Egreso: Honorarios Legales,428292.28,Sin Asignar,SHCP (Regulador),"Ciudad de México, MX",Transferencia SPEI MX,18,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0105,2025-10-20 20:56:12,Acción: Adquisición Minoritaria,6651792.06,Sin Asignar,Siemens Turbinas,"Monterrey, MX",Transferencia SPEI MX,85,False,N/A
+IBER-MX-0311,2025-10-24 09:35:13,Ingreso: Venta Energía,14546363.41,Ana Torres (Finanzas),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,39,False,N/A
+IBER-MX-0108,2025-10-24 17:18:15,Egreso: Pago a Proveedor,28330009.43,Javier Lopez (M&A),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,87,False,N/A
+IBER-MX-0087,2025-10-26 05:27:34,Movimiento: Ajuste Contable,408256.53,Ana Torres (Finanzas),Auditoría Interna,"Texas, USA",Wire Transfer SWIFT,65,False,N/A
+IBER-MX-0181,2025-10-27 00:26:04,Ingreso: Venta Energía,3802593.52,Sin Asignar,CFE México,"Texas, USA",Transferencia SPEI MX,68,False,N/A
+IBER-MX-0012,2025-10-27 13:29:07,Egreso: Pago a Proveedor,44928444.17,Sin Asignar,GE Energy,"Monterrey, MX",Wire Transfer SWIFT,36,False,N/A
+IBER-MX-0110,2025-10-27 20:17:24,Egreso: Honorarios Legales,2599724.3,Sin Asignar,Auditoría Interna,"Texas, USA",Caja Digital I-Risk,75,True,Egreso de Riesgo sin Ejecutivo Asignado
+IBER-MX-0118,2025-10-27 21:35:14,Acción: Adquisición Minoritaria,15148275.94,Carlos Ruiz (Cumplimiento),Siemens Turbinas,"Ciudad de México, MX",Wire Transfer SWIFT,40,False,N/A
