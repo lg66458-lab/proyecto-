@@ -139,7 +139,7 @@ st.markdown("---")
 # --- SECCIÓN DE VIDEO YOUTUBE ---
 st.markdown('<div class="css-card">', unsafe_allow_html=True)
 st.subheader("Presentación del servidor")
-url_video = "https://www.youtube.com/watch?v=p4Qj9s_6g4o" 
+url_video = "https://www.youtube.com/watch?v=Blfe4DntymI" 
 st.video(url_video)
 st.markdown('</div>', unsafe_allow_html=True)
 
