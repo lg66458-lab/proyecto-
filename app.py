@@ -14,19 +14,35 @@ st.set_page_config(
     page_icon="⚡"
 )
 
-# --- RUTAS DE ARCHIVOS (Logo y Audio) ---
+# ==========================================
+# --- RUTAS DE ARCHIVOS (Logo, Audio e Imagen) ---
+# ==========================================
 carpeta_actual = os.path.dirname(os.path.abspath(__file__))
 
 # 1. Logo
 ruta_completa_logo = os.path.join(carpeta_actual, "Iberdrola-Embleme-650x366.png")
 
-# 2. Audio (Asegúrate de que la extensión sea la correcta: .mp3, .wav, etc.)
+# 2. Audio
 ruta_completa_audio = os.path.join(carpeta_actual, "iberdrola song.mp3") 
 
+# 3. NUEVO: Imagen Línea del Tiempo
+ruta_completa_timeline = os.path.join(carpeta_actual, "linea del tiempo.jpg")
+
+
+# --- CARGA DE IMÁGENES ---
 try:
     logo_img = Image.open(ruta_completa_logo)
 except FileNotFoundError:
     logo_img = None 
+
+# NUEVO: Cargar la imagen de la línea de tiempo
+try:
+    timeline_img = Image.open(ruta_completa_timeline)
+except FileNotFoundError:
+    timeline_img = None
+    # Opcional: Mostrar un aviso si no se encuentra la imagen
+    # st.warning(f"⚠️ No se encontró la imagen: linea del tiempo.jpg en {carpeta_actual}")
+
 
 # --- CSS ESTILOS ---
 st.markdown("""
@@ -96,7 +112,6 @@ else:
 # ==========================================
 st.sidebar.markdown("### 🎵 Ambiente")
 try:
-    # Lee el archivo como binario para evitar errores de ruta
     with open(ruta_completa_audio, "rb") as audio_file:
         audio_bytes = audio_file.read()
     st.sidebar.audio(audio_bytes, format="audio/mp3")
@@ -136,12 +151,21 @@ with c_title:
 
 st.markdown("---")
 
-# --- SECCIÓN DE VIDEO YOUTUBE ---
+# ==================================================
+# --- SECCIÓN DE VIDEO YOUTUBE Y LÍNEA DE TIEMPO ---
+# ==================================================
 st.markdown('<div class="css-card">', unsafe_allow_html=True)
-st.subheader("Presentación del servidor")
+st.subheader("Presentación del servidor y Evolución")
 url_video = "https://www.youtube.com/watch?v=Blfe4DntymI" 
 st.video(url_video)
+
+# NUEVO: Mostrar la imagen justo debajo del video si se cargó correctamente
+if timeline_img:
+    st.markdown("---") # Un separador visual
+    st.image(timeline_img, use_container_width=True, caption="Línea del tiempo corporativa Iberdrola")
+
 st.markdown('</div>', unsafe_allow_html=True)
+# ==================================================
 
 # Placeholder para KPIs Vivos
 kpi_placeholder = st.empty()
@@ -199,7 +223,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # --- TABLEAU 1: Estados Financieros ---
 st.markdown('<div class="css-card">', unsafe_allow_html=True)
 st.subheader("Estados financieros")
-base_tableau1 = "https://public.tableau.com/views/dashboaradministracion/Dashboard5"
+base_tableau1 = "https://public.tableau.com/views/dashboaradministracion/Dashboard5?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 params = "?:embed=yes&:showVizHome=no&:tabs=yes&:toolbar=yes" 
 components.iframe(base_tableau1 + params, height=800, scrolling=True)
 st.markdown('</div>', unsafe_allow_html=True)
@@ -216,7 +240,9 @@ if live_mode:
     base_total = len(df_filtrado)
     base_criticas = len(df_filtrado[df_filtrado["MotivoAlerta"].str.contains("Riesgo")])
     
-    for i in range(200):
+    # Bucle infinito para simulación (usa 'while True' en producción real si es necesario)
+    # Usamos un rango grande para el ejemplo
+    for i in range(1000): 
         var_total = np.random.randint(-2, 5) 
         var_critica = np.random.randint(0, 2)
         
